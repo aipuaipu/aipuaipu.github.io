@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://aipu.github.io</id>
-    <title>Gridea</title>
-    <updated>2022-03-09T08:57:22.323Z</updated>
+    <id>https://aipuaipu.github.io</id>
+    <title>爱蒲AIPU</title>
+    <updated>2022-03-09T09:15:08.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://aipu.github.io"/>
-    <link rel="self" href="https://aipu.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
-    <logo>https://aipu.github.io/images/avatar.png</logo>
-    <icon>https://aipu.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <link rel="alternate" href="https://aipuaipu.github.io"/>
+    <link rel="self" href="https://aipuaipu.github.io/atom.xml"/>
+    <subtitle>分享好玩有趣有料的资源</subtitle>
+    <logo>https://aipuaipu.github.io/images/avatar.png</logo>
+    <icon>https://aipuaipu.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 爱蒲AIPU</rights>
+    <entry>
+        <title type="html"><![CDATA[阅读APP - 开源小说阅读器【安卓】]]></title>
+        <id>https://aipuaipu.github.io/post/yue-du-app-kai-yuan-xiao-shuo-yue-du-qi-an-zhuo/</id>
+        <link href="https://aipuaipu.github.io/post/yue-du-app-kai-yuan-xiao-shuo-yue-du-qi-an-zhuo/">
+        </link>
+        <updated>2022-03-09T09:04:40.000Z</updated>
+        <content type="html"><![CDATA[<p>阅读APP<br>
+<img src="https://aipuaipu.github.io/post-images/1646817244496.jpg" alt="" loading="lazy"></p>
+<p>Github下载地址<br>
+https://github.com/gedoor/legado/releases/</p>
+<p>酷安下载地址<br>
+https://www.coolapk.com/apk/io.legado.app.release</p>
+<p>阅读书源相关内容<br>
+https://mp.weixin.qq.com/s/6xVVgHezW_16RW-DrlB6yA</p>
+]]></content>
+    </entry>
 </feed>
