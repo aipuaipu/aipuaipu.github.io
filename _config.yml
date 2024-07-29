@@ -86,7 +86,7 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "huxpro", href: "http://huxpro.github.io/" },
+    { title: "Huxpro", href: "http://huxpro.github.io/" },
     { title: "乱序（Midare）", href: "http://mida.re/" },
     { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
     { title: "Kun Qian", href: "http://kunq.me" },
