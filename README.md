@@ -1,9 +1,9 @@
-[Hux Blog](https://huangxuan.me)
+[AIPU BLOG](aipuaipu.github.io)
 ================================
 
 > I never expected this to become popular.
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](https://14ab67e1.telegraph-image-b7c.pages.dev/file/60b57da8c018050fdd74b.png)
 
 
 [User Manual 👉](_doc/Manual.md)
